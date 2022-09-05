@@ -1,0 +1,44 @@
+.tipografias {
+	font-family: montserrat, sans-serif;}
+
+.overFlow {
+	overflow: hidden;}
+
+.cssUl1 {
+	list-style: none;}
+.cssUl2 {
+	list-style: none;}
+.cssFooter {
+	background-color: lightpink;
+	color: whitesmoke;}
+
+.textoBranding {
+	background-color: lightpink;}
+
+.tituloBranding {
+	color: white;
+text-align: center;}
+
+.parrafoBranding {
+	color: white;
+	text-align: center;}
+
+.nuestroPortfolio {
+	color: lightpink;}
+
+.nuestraHistoria {
+	color: lightpink;}
+
+.textoEventos {
+	color: lightpink;
+}
+
+.navbar-nav:hover {
+	color: pink;
+}
+
+@media only screen and (max-width: 768px) {
+.cssFooter {
+	font-size: 14px;
+	text-decoration: none;
+}
